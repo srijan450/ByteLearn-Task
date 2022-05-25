@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0fae73f.css",
-    "main.js": "/static/js/main.3bf482f4.js",
-    "index.html": "/index.html",
-    "main.b0fae73f.css.map": "/static/css/main.b0fae73f.css.map",
-    "main.3bf482f4.js.map": "/static/js/main.3bf482f4.js.map"
+    "main.css": "/ByteLearn-Task/static/css/main.b0fae73f.css",
+    "main.js": "/ByteLearn-Task/static/js/main.3bf482f4.js",
+    "index.html": "/ByteLearn-Task/index.html",
+    "main.b0fae73f.css.map": "/ByteLearn-Task/static/css/main.b0fae73f.css.map",
+    "main.3bf482f4.js.map": "/ByteLearn-Task/static/js/main.3bf482f4.js.map"
   },
   "entrypoints": [
     "static/css/main.b0fae73f.css",
