@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ByteLearn-Task/static/css/main.b0fae73f.css",
-    "main.js": "/ByteLearn-Task/static/js/main.3bf482f4.js",
+    "main.js": "/ByteLearn-Task/static/js/main.f37b69e6.js",
     "index.html": "/ByteLearn-Task/index.html",
     "main.b0fae73f.css.map": "/ByteLearn-Task/static/css/main.b0fae73f.css.map",
-    "main.3bf482f4.js.map": "/ByteLearn-Task/static/js/main.3bf482f4.js.map"
+    "main.f37b69e6.js.map": "/ByteLearn-Task/static/js/main.f37b69e6.js.map"
   },
   "entrypoints": [
     "static/css/main.b0fae73f.css",
-    "static/js/main.3bf482f4.js"
+    "static/js/main.f37b69e6.js"
   ]
 }
