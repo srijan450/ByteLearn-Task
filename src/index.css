@@ -1,0 +1,75 @@
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.inner-container {
+  background: orange;
+  padding: 20px;
+  width: 90%;
+  margin: 0px auto;
+}
+
+.input-div {
+  width: 50%;
+  display: grid;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 20px 0px;
+}
+
+.input-div label {
+  margin-bottom: 5px;
+}
+
+.input {
+  padding: 10px 15px;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+}
+
+textarea {
+  min-height: 200px;
+  overflow-y: auto;
+  resize: none;
+}
+
+.input-div input:focus {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+}
+
+.btn {
+  border: none;
+  padding: 10px 15px;
+  font-weight: 600;
+  border-radius: 10px;
+  background-color: white;
+  text-decoration: none;
+  color: black;
+}
+
+.button-div {
+  display: flex;
+}
+
+.button-div button {
+  margin: 0px 10px;
+}
+
+.blog-body {
+  background-color: orange;
+  padding: 20px;
+  color: black;
+}
+
+.blog-body h2 {
+  margin: 2px;
+}
+
+.viewBlog {
+  width: 100%;
+  min-height: 100vh;
+}
